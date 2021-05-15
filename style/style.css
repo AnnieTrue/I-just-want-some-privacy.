@@ -1,0 +1,17 @@
+body{
+    background-color: #221d1c;
+    margin: 0;
+}
+
+.mv {
+    width: 100vw;
+    height: auto;
+    background-color: red;
+
+}
+
+/* canvas{
+    width: 100vw;
+    height: auto;
+    background-color: blue;
+} */
